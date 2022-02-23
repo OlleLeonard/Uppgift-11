@@ -1,0 +1,22 @@
+.layout-top{
+    display:flex;
+    justify-content:flex-end;
+    align-items: flex-end;
+    margin: 30px;
+
+}
+
+.loggo{
+position: relative;
+right: 1300px;
+top: -40px;
+}
+
+.head-box1{
+    padding: 10px;
+    width: 50px;
+    margin: 20px;
+    padding:20px;
+}
+
+
